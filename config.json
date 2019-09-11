@@ -1,0 +1,6 @@
+{
+  "token"  : "Put your token here, don't give it to anyone else as they can access your account with it (Watch out).",
+  "statustype" : "LISTENING",
+  "message" : "to Syfe",
+  "streamingurl" : "(Must be twitch URL) Only needed if using STREAMING as statustype"
+}
